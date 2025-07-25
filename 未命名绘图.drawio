@@ -73,13 +73,13 @@
             <mxGeometry x="318.25" y="164" width="800.5" height="147" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="doqP-ka0qBymu-87dQ8n-29" value="组件卡片" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
+        <mxCell id="doqP-ka0qBymu-87dQ8n-29" value="组件分类" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="533.75" y="206" width="170" height="36" as="geometry" />
         </mxCell>
         <mxCell id="doqP-ka0qBymu-87dQ8n-30" value="文档内容" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="532.75" y="257" width="170" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="doqP-ka0qBymu-87dQ8n-31" value="预览" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
+        <mxCell id="doqP-ka0qBymu-87dQ8n-31" value="预览/全局概览" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="732.75" y="257" width="170" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-136" value="全局导航" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
