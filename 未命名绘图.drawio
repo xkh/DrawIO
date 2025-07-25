@@ -85,7 +85,7 @@
         <mxCell id="pdiXL-DBBBMApdJPIwzn-136" value="全局导航" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="332.75" y="206" width="170" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="pdiXL-DBBBMApdJPIwzn-137" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
+        <mxCell id="pdiXL-DBBBMApdJPIwzn-137" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#666666;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="732.75" y="206" width="170" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-138" value="侧边导航" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=1;" parent="1" vertex="1">
