@@ -589,16 +589,16 @@
           <mxGeometry x="161" y="-38" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-166" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="161" y="-8" width="50" height="20" as="geometry" />
+          <mxGeometry x="160" y="23" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-167" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="161" y="22" width="50" height="20" as="geometry" />
+          <mxGeometry x="161" y="-7" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-168" value="开发中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="206" y="17" width="70" height="30" as="geometry" />
+          <mxGeometry x="206" y="-12" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-169" value="跨业务复用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="209" y="-13" width="90" height="30" as="geometry" />
+          <mxGeometry x="208" y="18" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-170" value="已支持" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="206" y="-43" width="70" height="30" as="geometry" />
