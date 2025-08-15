@@ -29,13 +29,13 @@
         <mxCell id="Wd6wmdM3MLi_ArUjjP6Y-15" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;npm publish&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="279" width="132" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="AvQcBNTozlEPuOzf312Y-7" value="DS&amp;amp;DS概览" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontColor=#1A1A1A;fontStyle=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="AvQcBNTozlEPuOzf312Y-7" value="DS&amp;amp;DS概览" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontColor=#1A1A1A;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="40" width="142" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AvQcBNTozlEPuOzf312Y-8" value="AI客服机器人" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontColor=#1A1A1A;fontStyle=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="AvQcBNTozlEPuOzf312Y-8" value="AI客服机器人" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontColor=#1A1A1A;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="693" y="40" width="142" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AvQcBNTozlEPuOzf312Y-9" value="AI内容种草" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontColor=#1A1A1A;fontStyle=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="AvQcBNTozlEPuOzf312Y-9" value="AI内容种草" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontColor=#1A1A1A;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="40" width="142" height="90" as="geometry" />
         </mxCell>
       </root>
