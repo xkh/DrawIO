@@ -32,11 +32,6 @@
             <mxGeometry x="359" y="563" width="119" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="Background" id="pdiXL-DBBBMApdJPIwzn-18">
-          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=62;fillColor=#E6E6E6;shape=stencil(lVLbDoMgDP0aXgkWXfTZuf8wESeZE4eXub+fDDYBDcneetpTzmkpovnQlD1DQIZRiht78mpsED0jAN41TPJxjRAtEM1rIdlViqmrNO5LxVTRXczqhUX3EdUB5KVRjKPTJ3HR3MdUVoobuWQXLmAgjlNDAJtg3mp5Z+lmGU7A0SYB4YiEpbc6HA/iim90YybBafyP/C/xNWCP43k6dGDt6pAdXvxO3pt+N48nHvzzNdiOpeZtq2/NrvvHtab0YdLiDQ==);strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fillStyle=auto;fontSize=15;portConstraintRotation=0;" parent="1" vertex="1">
-            <mxGeometry x="303" y="136" width="832" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-54" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;页面栈管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="357" y="590.5" width="178" height="34" as="geometry" />
         </mxCell>
@@ -51,9 +46,6 @@
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-58" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;埋点SDK&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="357" y="783.5" width="178" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="pdiXL-DBBBMApdJPIwzn-78" value="&lt;b style=&quot;color: rgb(38, 38, 38); font-size: 18px;&quot;&gt;客户端&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#C9E0F7;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="153.5" width="118" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-79" value="&lt;b style=&quot;color: rgb(38, 38, 38); font-size: 18px;&quot;&gt;模块&amp;amp;组件&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#C9E0F7;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="279" width="118" height="40" as="geometry" />
@@ -76,9 +68,6 @@
             <mxGeometry x="359" y="563" width="119" height="25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pdiXL-DBBBMApdJPIwzn-107" value="Vue2" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-109" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;解析 metadata&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="276" width="132" height="161" as="geometry" />
         </mxCell>
@@ -97,9 +86,6 @@
         <mxCell id="pdiXL-DBBBMApdJPIwzn-140" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="357" y="783.5" width="178" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="pdiXL-DBBBMApdJPIwzn-160" value="&lt;font color=&quot;#262626&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;多源输入&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#C9E0F7;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="153.5" width="118" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-161" value="&lt;b style=&quot;color: rgb(38, 38, 38); font-size: 18px;&quot;&gt;转换&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#C9E0F7;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="279" width="118" height="40" as="geometry" />
         </mxCell>
@@ -111,18 +97,6 @@
             <mxGeometry x="490" y="276" width="460" height="161" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Wd6wmdM3MLi_ArUjjP6Y-2" value="Vue3" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="488" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Wd6wmdM3MLi_ArUjjP6Y-3" value="Uniapp" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=none;fontStyle=1;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="646" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Wd6wmdM3MLi_ArUjjP6Y-5" value="React" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#666666;strokeColor=none;fontStyle=1;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="804" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Wd6wmdM3MLi_ArUjjP6Y-6" value="WebC" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#666666;strokeColor=none;fontStyle=1;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="962" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="Wd6wmdM3MLi_ArUjjP6Y-9" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;React/WebC to Vue2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=#666666;strokeColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="372" width="167" height="50" as="geometry" />
         </mxCell>
