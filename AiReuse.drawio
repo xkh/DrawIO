@@ -1,14 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
   <diagram name="Page-1" id="7I-pyVeUE3QvTyUtzgVR">
-    <mxGraphModel dx="886" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="886" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="" tags="Background" id="pdiXL-DBBBMApdJPIwzn-5">
-          <mxCell style="vsdxID=8;fillColor=#E6E6E6;shape=stencil(lVLLEoMgDPwargyGPvRs7X84I1amVixia/++UmgFdJjpLZts2E0IovnQlD1DQAYlxZU9eaUaRE8IgHcNk1zNEaIFonktJLtIMXaVwX2pmTq6iYd+YTJ9RHcAeRmU4AP9JM6Gex/LSnMTn+zDCSzEu9QSwCXYt1reObpZhvfgaZOIcELi0ksdtgfxxRe6NZNievxH/pf4GnDHCTxtOnB2tcmOL34lH0y/micQj/75HCzHUvO2Nbfm1sPjmlPmMGnxBg==);strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fillStyle=auto;fontSize=15;portConstraintRotation=0;" parent="1" vertex="1">
-            <mxGeometry x="209.25" y="-80" width="920" height="640" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="pdiXL-DBBBMApdJPIwzn-109" value="叮小咚AI助手" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=-3;spacingTop=-3;spacingBottom=-3;fontFamily=Helvetica;fontSize=20;labelBackgroundColor=none;fillColor=#DAE8FC;strokeColor=#6c8ebf;shadow=0;fontStyle=1;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="358" y="40" width="142" height="90" as="geometry" />
         </mxCell>
